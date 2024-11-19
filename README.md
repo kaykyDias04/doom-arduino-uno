@@ -1,4 +1,4 @@
-# doom-nano
+# Doom-Uno
 A 3d raycast engine for Arduino
 
 ![](/images/screen-1.jpg?raw=true)
